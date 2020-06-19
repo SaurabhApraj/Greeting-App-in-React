@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: #d6c6ec;
+}
+h1 {
+  padding: 20px 30px;
+  background-color: #fff;
+  border-radius: 20px;
+  color: #542c85;
+  font-size: 50px;
+  text-align: center;
+  position: absolute;
+  left: 50%;
+  top: 30%;
+  transform: translate(-50%, -30%);
+  font-family: "Josefin Sans", sans-serif;
+}
+span {
+  color: #8753c6;
+}
